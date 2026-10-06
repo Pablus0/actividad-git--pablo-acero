@@ -3,6 +3,7 @@
 # Tarea1
 - Tarea 1: Inicialización y limpieza del repositorio local.
 - Tarea 2: Vinculación con el repositorio remoto de GitHub.
+- Prueba 1: Configuración del entorno de pruebas completada.
 Notas: El control de versiones local funciona correctamente.
 Actividad de Git
 Autor: Pablo Acero
