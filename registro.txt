@@ -1,3 +1,4 @@
+“Modificación realizada desde GitHub”
 ## Características de la rama desarrollo
 # Registro de Actividad de Git
 # Tarea1
