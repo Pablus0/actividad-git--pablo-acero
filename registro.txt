@@ -1,6 +1,6 @@
 # Registro de Actividad de Git
 # Tarea1
-
+- Tarea 1: Inicialización y limpieza del repositorio local.
 Actividad de Git
 Autor: Pablo Acero
 Versión: 1
